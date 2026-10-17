@@ -1,0 +1,13 @@
+{
+  "data": {
+    "Status": "New",
+    "Brand": "Acer",
+    "CPU": "Intel Core i5",
+    "RAM": 16,
+    "Storage": 512,
+    "Storage type": "SSD",
+    "GPU": "Unknown",
+    "Screen": 15.6,
+    "Touch": "No"
+  }
+}

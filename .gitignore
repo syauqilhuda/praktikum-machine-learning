@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# File rahasia
+.env
+.env.*
+!.env.example
+
+# File sementara Windows
+Thumbs.db
+Desktop.ini
